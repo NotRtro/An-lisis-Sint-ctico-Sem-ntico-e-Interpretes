@@ -1,0 +1,7 @@
+var int x;
+var bool a;
+a = false;
+
+if a then x = 6 else x = 3 endif;
+
+print(x)

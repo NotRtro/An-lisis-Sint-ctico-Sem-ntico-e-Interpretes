@@ -1,0 +1,11 @@
+var bool a, b, c;
+
+a = false;
+b = false;
+c = true;
+
+print(a);
+print(b);
+print(c);
+print(a or b and c);
+print(a and b and c)

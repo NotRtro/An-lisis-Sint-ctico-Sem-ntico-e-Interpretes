@@ -1,0 +1,12 @@
+var int x, y;
+
+y = 1;
+
+for x: 1, 10 do
+    if y <= 5 then 
+        print(y) 
+    endif;
+    y = y+1
+endfor;
+
+print(y)
